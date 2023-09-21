@@ -1,0 +1,113 @@
+[
+    {
+        "id": "Iphone1",
+        "titulo": "Iphone 11",
+        "imagen": "./img/iphones/11.png",
+        "categoria": {
+            "nombre": "Iphone",
+            "id": "iphone"
+        },
+        "precio": 150000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Iphone 12",
+        "imagen": "./img/iphones/12.png",
+        "categoria": {
+            "nombre": "Iphone",
+            "id": "iphone"
+        },
+        "precio": 435000
+    },
+    {
+        "id": "Iphone3",
+        "titulo": "Iphone 13",
+        "imagen": "./img/iphones/13.png",
+        "categoria": {
+            "nombre": "Iphone",
+            "id": "iphone"
+        },
+        "precio": 550000
+    },
+
+    {
+        "id": "Iphone4",
+        "titulo": "Iphone 14",
+        "imagen": "./img/iphones/14.png",
+        "categoria": {
+            "nombre": "Iphone",
+            "id": "iphone"
+        },
+        "precio": 750000
+    },
+    {
+        "id": "ipad1",
+        "titulo": "Ipad 9na",
+        "imagen": "./img/ipads/1.png",
+        "categoria": {
+            "nombre": "Ipad",
+            "id": "ipad"
+        },
+        "precio": 650000
+    },
+    {
+        "id": "ipad2",
+        "titulo": "Ipad Mini",
+        "imagen": "./img/ipads/2.png",
+        "categoria": {
+            "nombre": "Ipad",
+            "id": "ipad"
+        },
+        "precio": 755000
+    },
+    {
+        "id": "ipad3",
+        "titulo": "Ipad Pro",
+        "imagen": "./img/ipads/3.png",
+        "categoria": {
+            "nombre": "Ipad",
+            "id": "ipad"
+        },
+        "precio": 975000
+    },
+    {
+        "id": "applewacht1",
+        "titulo": "Apple Wacht SE",
+        "imagen": "./img/wachts/1.png",
+        "categoria": {
+            "nombre": "Apple Wacht",
+            "id": "applewacht"
+        },
+        "precio": 80000
+    },
+    {
+        "id": "applewacht2",
+        "titulo": "Apple Wacht 6",
+        "imagen": "./img/wachts/2.png",
+        "categoria": {
+            "nombre": "Apple Wacht",
+            "id": "applewacht"
+        },
+        "precio": 100000
+    },
+    {
+        "id": "applewacht3",
+        "titulo": "Apple Wacht 7",
+        "imagen": "./img/wachts/3.png",
+        "categoria": {
+            "nombre": "Apple Wacht",
+            "id": "applewacht"
+        },
+        "precio": 135000
+    },
+    {
+        "id": "applewacht4",
+        "titulo": "Apple Wacht 8",
+        "imagen": "./img/wachts/4.png",
+        "categoria": {
+            "nombre": "Apple Wacht",
+            "id": "applewacht"
+        },
+        "precio": 160000
+    }
+]
